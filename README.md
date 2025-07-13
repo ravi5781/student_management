@@ -50,20 +50,7 @@ You can record your screen using [ScreenToGif](https://www.screentogif.com/) and
 
 ## 📁 Project Structure
 
-student-management-system/
-├── src/
-│ ├── in.bg.studentapp.servlets/
-│ ├── in.bg.studentapp.dao/
-│ ├── in.bg.studentapp.dto/
-├── WebContent/
-│ ├── index.jsp
-│ ├── login.jsp
-│ ├── register.jsp
-│ ├── dashboard.jsp
-├── lib/
-│ └── mysql-connector.jar
-├── web.xml
-
+<img width="1039" height="477" alt="image" src="https://github.com/user-attachments/assets/d95a2db6-1a41-4c24-b398-f35ceaa5dfaf" />
 
 
 ---
